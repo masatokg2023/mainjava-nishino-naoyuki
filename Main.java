@@ -7,5 +7,6 @@ public class Main{
         // 常にプルしてみましょう
         System.out.println("hello java３");
         System.out.println("hello java４");
+        System.out.println("hello java５");
     }
 }
