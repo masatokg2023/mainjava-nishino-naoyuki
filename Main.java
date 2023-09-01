@@ -4,5 +4,6 @@ public class Main{
         System.out.println("hello java２");
         // どうして２回も出力したのですか
         // 3回目はしないのですか
+        // 常にプルしてみましょう
     }
 }
