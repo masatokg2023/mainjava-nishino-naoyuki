@@ -6,5 +6,6 @@ public class Main{
         // 3回目はしないのですか
         // 常にプルしてみましょう
         System.out.println("hello java３");
+        System.out.println("hello java４");
     }
 }
